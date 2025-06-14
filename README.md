@@ -57,5 +57,4 @@ The project covers 14 business-critical SQL analyses, including:
 - **MySQL Workbench** – Data loading, querying, and visualization
 - **SQL** – Data manipulation and analysis
 - **ER Diagrams** – Schema understanding
-- **GitHub** – Version control and documentation
 
